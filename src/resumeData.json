@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Tim Baker",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"google.ca",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/taras-kozak-a4565b153/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kozaktar",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:kozaktaras15@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+        "education":[
+      {
+        "school":"Ryerson University",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"June 2020",
+        "description":"While studying at ryeson I became profficinet in Java and Javascript, but more importantly I got introduced to a broad range of topics in computer scienc.  My education helped me get solid foundational knowledge in data structures, algorithms, machine learning, data science, networks, operating systems, and software design."
+      }],
+    "work":[
+      {
+        "company":"TD Digital Channels",
+        "title":"Automation Developer Intern",
+        "years":"September 2018 - December 2018",
+        "description":"As an automation dveloper I was responsible for developing automation test scripts for a credit card web application using Java/Selenium WebDriver. Over the course of the term I developed over 150 new automation scripts as well as refactored the existing once to improve execution speed. I also created a small Java library for automated HOST mainframe testing using IBM's HACL library which enabled my team to write automation scripts that were able to set up test users in the mainframe - a task that was previously done manualy before each test execution."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
