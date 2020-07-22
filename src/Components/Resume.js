@@ -3,18 +3,12 @@ import Grid from '@material-ui/core/Grid';
 import MaterialUI from '../skills/material-ui.png';
 
 
-const styles={
-  img:{
-    height:150,
-    width:150
-  }
-}
 
 class Resume extends Component {
   render() {
 
     if(this.props.data){
-      var skillmessage = this.props.data.skillmessage;
+    
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
@@ -26,10 +20,7 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
-      })
+      
     }
 
     return (
@@ -85,7 +76,7 @@ class Resume extends Component {
         <i class="devicon-css3-plain-wordmark" style={{fontSize:150}}/>
         </Grid>
         <Grid item xs={4}>
-        <img src={MaterialUI}/>
+        <img src={MaterialUI} alt=''/>
         </Grid>
         <Grid item xs={4}>
         <i class="devicon-react-original-wordmark" style={{fontSize:150}}/>

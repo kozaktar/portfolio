@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import { cssNumber } from 'jquery';
 
 class About extends Component {
   render() {
 
     if(this.props.data){
       
-      var profilepic= "images/"+this.props.data.image;
+      //var profilepic= "images/"+this.props.data.image;
       var resumeDownload = this.props.data.resumedownload;
     }
 
