@@ -28,7 +28,7 @@ const theme = createMuiTheme({
 const useStyles = makeStyles({
     root: {
       maxWidth:600 ,
-      height:600,
+      height:620,
       marginLeft:10,
       marginRight:10,
       position:'relative'
@@ -71,7 +71,7 @@ const useStyles = makeStyles({
             </Typography>
           </CardContent>
           <MuiThemeProvider theme={theme}>
-        <CardActions style={{position:'absolute', bottom:'3px'}}>
+        <CardActions style={{position:'absolute', bottom:'0px'}}>
         <IconButton color="black" aria-label="open git" onClick={()=>openInNewTab(project.projectGit)}>
         <GitHubIcon className={classes.icon}/>
         </IconButton >

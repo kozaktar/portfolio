@@ -34,7 +34,7 @@ class Portfolio extends Component {
             <h1>Check Out Some of My Projects</h1>
 
             <Grid container spacing={3}>
-            {this.portfolioProjects.map(item=><Grid item xs={6}><ProjectCard style={{height:'300px'}} project={item}/></Grid>)}
+            {this.portfolioProjects.map(item=><Grid item sm={6}><ProjectCard style={{height:'300px'}} project={item}/></Grid>)}
                 
           </Grid>
           </div>

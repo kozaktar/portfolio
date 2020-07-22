@@ -63,47 +63,48 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
          <Grid container spacing={3}>
-        <Grid item xs={4}>
-        <i class="devicon-java-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-java-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-javascript-plain" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-javascript-plain" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-html5-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-html5-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-css3-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-css3-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <img src={MaterialUI} alt=''/>
+        <Grid item xs>
+        <i class="devicon-react-original-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-react-original-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-webpack-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-webpack-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-npm-original-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-npm-original-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-nodejs-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-nodejs-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-mongodb-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-mongodb-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-postgresql-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-postgresql-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-docker-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-docker-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-amazonwebservices-plain-wordmark" style={{fontSize:120}}/>
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-amazonwebservices-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <i class="devicon-git-plain-wordmark" style={{fontSize:120}}/>
+        
         </Grid>
-        <Grid item xs={4}>
-        <i class="devicon-git-plain-wordmark" style={{fontSize:150}}/>
+        <Grid item xs>
+        <img src={MaterialUI} style={{maxHeight:100}} alt=''/>
         </Grid>
       </Grid>
 			</div>
