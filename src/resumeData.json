@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"Taras Kozak",
     "occupation":"(Your Occupation Here)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
@@ -14,8 +14,8 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"google.ca",
+    "website": "http://www.taraskozak.com",
+    "resumedownload":"https://drive.google.com/file/d/1JQ5oMsw0-xei65mETQXKItQPLdfY27nB/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
