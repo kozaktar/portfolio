@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ProfilePic from '../portfolio/profilepic.JPEG';
+
 
 class About extends Component {
   render() {
@@ -13,7 +15,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={null} alt="Taras Kozak Profile Pic" />
+            <img className="profile-pic"  src={ProfilePic} alt="Taras Kozak Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
