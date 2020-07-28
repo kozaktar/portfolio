@@ -20,7 +20,7 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I'm a Full Stack developer with a passion for coding and experimenting with new technologies. I love solving problems and bringing new ideas to life. Give me a shout if you're looking for a developer with experience in React and Java and passion for learning new tecnologies.</p>
+            <p>I'm a Full Stack developer with a passion for coding and experimenting with new technologies. I love solving problems and bringing new ideas to life. Give me a shout if you're looking for a developer with experience in React and Java and a passion for learning new technologies.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Me</h2>

@@ -40,14 +40,14 @@
         "school":"Ryerson University",
         "degree":"Bachelors in Computer Science",
         "graduated":"June 2020",
-        "description":"While studying at ryeson I became profficinet in Java and Javascript, but more importantly I got introduced to a broad range of topics in computer scienc.  My education helped me get solid foundational knowledge in data structures, algorithms, machine learning, data science, networks, operating systems, and software design."
+        "description":"While studying at Ryerson I became proficient in Java and Javascript, but more importantly, I got introduced to a broad range of topics in computer science.  My education helped me get a solid foundational knowledge in data structures, algorithms, machine learning, data science, networks, operating systems, and software design."
       }],
     "work":[
       {
         "company":"TD Digital Channels",
         "title":"Automation Developer Intern",
         "years":"September 2018 - December 2018",
-        "description":"As an automation dveloper I was responsible for developing automation test scripts for a credit card web application using Java/Selenium WebDriver. Over the course of the term I developed over 150 new automation scripts as well as refactored the existing once to improve execution speed. I also created a small Java library for automated HOST mainframe testing using IBM's HACL library which enabled my team to write automation scripts that were able to set up test users in the mainframe - a task that was previously done manualy before each test execution."
+        "description":"As an automation developer, I was responsible for developing automation test scripts for a credit card web application using Java/Selenium WebDriver. Over the course of the term I developed over 150 new automation scripts as well as refactored the existing once to improve execution speed. I also created a small Java library for automated HOST mainframe testing using IBM's HACL library which enabled my team to write automation scripts that were able to set up test users in the mainframe - a task that was previously done manually before each test execution."
       }
     ],
     "skills":[
