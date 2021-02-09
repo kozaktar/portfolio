@@ -47,7 +47,7 @@
         "company":"TD Digital Channels",
         "title":"Automation Developer Intern",
         "years":"September 2018 - December 2018",
-        "description":"As an automation developer, I was responsible for developing automation test scripts for a credit card web application using Java/Selenium WebDriver. Over the course of the term I developed over 150 new automation scripts as well as refactored the existing once to improve execution speed. I also created a small Java library for automated HOST mainframe testing using IBM's HACL library which enabled my team to write automation scripts that were able to set up test users in the mainframe - a task that was previously done manually before each test execution."
+        "description":"As an automation developer, I was responsible for developing automation test scripts for a credit card web application using Java/Selenium WebDriver. Over the course of the term I developed over 150 new automation scripts as well as refactored the existing scripts to improve execution speed. I also created a small Java library for automated HOST mainframe testing using IBM's HACL library which enabled my team to write automation scripts that were able to set up test users in the mainframe - a task that was previously done manually before each test execution."
       }
     ],
     "skills":[
